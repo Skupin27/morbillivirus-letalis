@@ -1,259 +1,344 @@
-# Morbillivirus letalis – Document Collection
-## Hypothetical Pathogen Bioengineering Project
+# Morbillivirus letalis – Kompletní dokumentace
+## Hypotetický bioinženýrský projekt – Verze 1.0 až 5.0
 
-**⚠️ IMPORTANT DISCLAIMER:** This document collection describes purely hypothetical bioengineered constructs created by combining characteristics of real-world organisms. These documents serve as thought experiments and model examples for discussions about dual-use biotechnology, planetary protection, and the ethical boundaries of synthetic biology. **No such viruses exist, and no research institution is developing them.** This is purely speculative fiction for educational and philosophical purposes.
+**⚠️ ABSOLUTNÍ VAROVÁNÍ:** Tato dokumentace popisuje čistě hypotetické bioinženýrské konstrukty vzniklé kombinací vlastností reálně existujících organismů a spekulativních extrapolací. Tyto dokumenty slouží jako myšlenkové experimenty a modelové příklady pro diskuzi o duálním užití biotechnologií, planetární ochraně, etických hranicích syntetické biologie a filozofických otázkách existence. **Žádné takové viry neexistují, žádná výzkumná instituce se jejich vývojem nezabývá a jedná se čistě o spekulativní fikci pro vzdělávací a filozofické účely.**
 
 ---
 
-## 📋 Project Overview
+## 📋 Přehled projektu
 
-The *Morbillivirus letalis* series represents an escalating hypothetical scenario – from a simple combination of existing viral properties to a galaxy-ending existential threat. Each version builds upon the previous, adding layers of bioengineering, environmental adaptation, and strategic complexity.
+Série *Morbillivirus letalis* představuje eskalující hypotetický scénář – od jednoduché kombinace existujících virových vlastností až po entitu přesahující samotnou realitu. Každá verze staví na předchozí a přidává vrstvy bioinženýrství, environmentální adaptace, strategické komplexity a nakonec i metafyzické transcendence.
 
-| Version | Codename | Scope | Threat Level |
+| Verze | Kódové označení | Rozsah | Úroveň hrozby |
 | :--- | :--- | :--- | :--- |
-| **1.0** | Chiméra | Terrestrial (Earth) | Planetary extinction |
-| **2.0** | Fénixův dech | Bioengineered | Civilizational collapse |
-| **3.0** | Pandora | Interplanetary | Solar system sterilization |
-| **4.0** | Aeternum | Galactic | Universal life extinction |
+| **1.0** | Chiméra | Terestrický (Země) | Planetární extinkce |
+| **2.0** | Fénixův dech | Bioinženýrský konstrukt | Kolaps civilizace |
+| **3.0** | Pandora | Interplanetární | Sterilizace sluneční soustavy |
+| **4.0** | Aeternum | Galaktická entita | Extinkce veškerého organického života v galaxii |
+| **5.0** | Deus Ex Machina | Transcendentální | Konec reality, času a smrti samotné |
 
 ---
 
 ## 🦠 Morbillivirus letalis 1.0
 
-### "Chiméra" – The Conceptual Origin
+### "Chiméra" – Konceptuální původ
 
-The baseline document. A purely theoretical combination of existing viral properties without any bioengineering component.
+Základní dokument. Čistě teoretická kombinace existujících virových vlastností bez jakékoli bioinženýrské komponenty.
 
-**Key characteristics:**
-- Hybrid of measles, rabies, HIV, Ebola, influenza, Lassa, tick-borne encephalitis, plague, tuberculosis, and prions
-- Multiple transmission routes: airborne, insect vectors, rodent vectors, fomites, water, soil, and from deceased bodies
-- Asymptomatic latency: 3 days to 50 years with extreme infectiousness throughout
-- Prodromal phase: 2-5 days with mild neurological symptoms
-- Acute phase: 5-14 days to death – immune collapse, hemorrhagic symptoms, neurological destruction, cytokine storm, prion damage
-- Case Fatality Rate: 99.97% – 100%
-- Basic reproduction number (R₀): 25-40
-- Environmental persistence: 45 days on dry surfaces, 6 months in water, 1 year in soil
-- Resistance to alcohol disinfection, requires 10x concentrated bleach and 60 minutes contact time
+| Vlastnost | Popis |
+| :--- | :--- |
+| **Typ** | Hybridní RNA virus s prvky prionového poškození |
+| **Složení** | Spalničky, vzteklina, HIV, ebola, chřipka, Lassa, klíšťová encefalitida, mor, TBC, priony |
+| **Přenos** | Vzdušný, z mrtvých, hmyzem, hlodavci, kontaminovanými předměty, vodou, půdou |
+| **Inkubační doba** | 3 dny – 50 let |
+| **Smrtnost (CFR)** | 99,97 % – 100 % |
+| **R₀** | 25–40 |
+| **Odolnost v prostředí** | 45 dní na suchém povrchu, 6 měsíců ve vodě, 1 rok v půdě |
 
-**Purpose:** To demonstrate that while such a pathogen doesn't exist naturally (due to evolutionary trade-offs), each individual property is real and exists in pathogens we fight today.
+**Klíčové vlastnosti:**
+- Asymptomatičtí superpřenašeči
+- Imunitní amnézie (spalničky)
+- Latence v paměťových buňkách (HIV, TBC)
+- Hemoragická fáze (ebola)
+- Neurologická destrukce (vzteklina)
+- Cytokinová bouře (těžká chřipka)
+- Prionové poškození (Creutzfeldt-Jakob)
+
+**Účel:** Demonstrovat, že ačkoliv takový patogen v přírodě neexistuje (kvůli evolučním kompromisům), každá jeho vlastnost je reálná a vyskytuje se u patogenů, se kterými bojujeme dodnes.
 
 ---
 
 ## 🧬 Morbillivirus letalis 2.0
 
-### "Fénixův dech" – The Bioengineered Construct
+### "Fénixův dech" – Bioinženýrský konstrukt
 
-The first major upgrade. The virus is now explicitly a **synthetic construct** designed using bioengineering principles.
+První zásadní upgrade. Virus je nyní explicitně **syntetický konstrukt** navržený pomocí bioinženýrských principů.
 
-**Bioengineering additions:**
-- **Capsid:** Modified measles spike protein (CD150 and nectin-4 affinity) with rabies-derived neurotropism domains
-- **Genome:** Segmented RNA genome (influenza) allowing reassortment and rapid mutation
-- **Regulatory elements:** HIV-derived LTR promoters for latency and reactivation
-- **Prion induction:** Genetic construct encoding misfolding proteins that trigger chain reactions in CNS
-- **Immune stealth:** MHC-I mimicking proteins to avoid CTL recognition
-- **Tet-On/Off system:** External or random reactivation based on environmental signals
+| Vlastnost | Popis |
+| :--- | :--- |
+| **Typ** | Syntetický RNA virus – geneticky modifikovaný konstrukt |
+| **Genom** | Segmentovaný RNA genom umožňující reasortment a rychlé mutace |
+| **Kapsida** | Modifikovaný spike protein spalniček (CD150, nectin-4) s doménami pro neurotropismus (vzteklina) |
+| **Regulační elementy** | HIV-derived LTR promotory pro latenci a reaktivaci |
+| **Imunitní stealth** | MHC-I mimikry, inhibice JAK/STAT dráhy |
+| **Prionová indukce** | Genový konstrukt kódující chybně skládající se proteiny |
 
-**Transmission modifications:**
-- Optimized aerosol stability through lipid envelope modification
-- Inhibition of autolysis in deceased hosts, prolonging tissue infectiousness
-- Adaptation to insect cells allowing transient replication without harming vectors
-- Insertion of plant virus genes (Tobacco Mosaic Virus) for environmental stability
-- Biofilm production protecting viral particles on surfaces
+**Bioinženýrské modifikace přenosu:**
+- Optimalizovaná stabilita v aerosolu
+- Inhibice autolýzy v mrtvých hostitelích
+- Adaptace na hmyzí buňky
+- Inzerce genů z rostlinných virů pro environmentální stabilitu
+- Produkce biofilmu chránícího na površích
 
-**Design philosophy:** The virus is no longer a natural accident but a deliberate creation – a genetic construct combining the worst features of multiple pathogens into a single, engineered killing machine.
+**Designová filozofie:** Virus již není přirozená nehoda, ale deliberate creation – genetický konstrukt kombinující nejhorší vlastnosti mnoha patogenů do jediné, inženýrsky navržené zabíjející mašiny.
 
 ---
 
 ## 🚀 Morbillivirus letalis 3.0
 
-### "Pandora" – The Interplanetary Variant
+### "Pandora" – Interplanetární varianta
 
-The virus is now adapted for **space travel and extraterrestrial environments**. Inspired by real extremophiles and designed for the challenges of interplanetary colonization.
+Virus je nyní adaptován pro **vesmírné cestování a mimozemské prostředí**. Inspirován reálnými extremofily a navržen pro výzvy meziplanetární kolonizace.
 
-**Interplanetary modifications:**
-- **Anhydrobiotic crystals:** Complete desiccation tolerance (inspired by tardigrades) – survives vacuum indefinitely
-- **Radiation resistance:** DNA repair enzymes from *Deinococcus radiodurans* – survives cosmic radiation for millennia
-- **Temperature tolerance:** Proteins from thermophilic archaea (*Thermus aquaticus*) and cryoprotectants from polar bacteria
-- **Material adhesion:** Optimized for spacecraft materials (aluminum, titanium, Kevlar, carbon fiber)
-- **Regolith stability:** Survival in Martian perchlorates, lunar dust, and water ice with enzymes neutralizing reactive oxygen species
-- **Cryogenic stability:** Remains infectious after decades in frozen state, with cryoprotective proteins ensuring freeze-thaw survival
+| Vlastnost | Popis |
+| :--- | :--- |
+| **Anhydrobióza** | Krystalické spory odolné vůči vysušení – přežití ve vakuu neomezeně (tardigrady) |
+| **Radiační odolnost** | Opravné enzymy z *Deinococcus radiodurans* – přežití kosmického záření tisíciletí |
+| **Termostabilita** | Proteiny z termofilních archeí (*Thermus aquaticus*) – rozsah -270 °C až +120 °C |
+| **Kryoprotekce** | Ochrana při zmrazení a rozmrazení – přežití v ledových měsících (Europa, Enceladus) |
+| **Adheze na materiály** | Optimalizace pro hliník, titan, kevlar, uhlíková vlákna |
+| **Regolitová stabilita** | Přežití v marťanském perchlorátu a měsíčním prachu |
 
-**Enhanced resistance:**
-- Melanin-like pigments absorbing UV radiation (inspired by Chernobyl fungi)
-- Catalase and peroxidase neutralizing sterilization agents (hydrogen peroxide)
-- Repair mechanisms fixing damage after gamma irradiation
-- Theoretical ability to form crystalline structures when hosts unavailable
+**Nové přenosové cesty:**
+- Vakuový přenos
+- Kontaminace kosmických lodí
+- Přenos skafandry
+- Regolitový přenos
+- Ledový přenos (Europa)
+- Přenos meteority
 
-**Galactic transmission vectors:**
-- Panspermia 2.0: Spores ejected into space by planetary catastrophes
-- Gravitational slingshots: Acceleration to near-light speeds using stellar gravity
-- Infected ships: Any vessel visiting an infected world becomes a Trojan horse
-- Signal contamination: Theoretical ability to travel via quantum-entangled communication signals
+**Epidemiologie v uzavřených habitatech:**
+- R₀: 50–100 (kosmická loď, marsovská základna)
+- Synchronizovaná reaktivace na celé lodi/planetě
+- Detekční stealth – spory nerozlišitelné od kosmického prachu
 
-**Ecosystem adaptation:** Can survive on Europa's ice, Mars's soil, in the vacuum of space, and in the hearts of comets. Designed for the eventual human expansion into the solar system – and to ensure that expansion goes horribly wrong.
+**Důsledky:** Kontaminace Marsu, Europy, Měsíce. Konec hledání mimozemského života. Rozdělení lidstva na infikovanou Zemi a "čisté" kolonie.
 
 ---
 
 ## 🌌 Morbillivirus letalis 4.0
 
-### "Aeternum" – The Galactic Extinction Event
+### "Aeternum" – Galaktická entita
 
-The final form. The virus is no longer a weapon – it is a **self-directed, self-evolving galactic entity** with one purpose: to end all organic life in the universe. Inspired by Warhammer 40K Ork philosophy but taken to its logical extreme.
+Konečná forma predátora. Virus již není zbraň – je to **sebeřídící, sebevyvíjející se galaktická entita** s jediným účelem: ukončit veškerý organický život ve vesmíru. Inspirováno Warhammer 40K Orks, ale dovedeno k logickému extrému.
 
-**Revolutionary principles:**
-
-| Principle | Description |
+| Princip | Popis |
 | :--- | :--- |
-| **Modular genome** | A dynamic gene library, not a fixed sequence. The virus chooses its phenotype (slow/quiet or fast/deadly) based on environmental analysis. |
-| **Distributed intelligence (Hive Mind)** | All viral particles communicate via chemical signals, electromagnetic impulses, and quantum entanglement. The viral population functions as a **superorganism** with collective memory and decision-making. |
-| **Self-determination (Agency)** | The virus decides when to go latent, when to activate, and when to mutate. It analyzes the host's immune system, psychological state, and even the civilization's technological level. |
+| **Modulární genom** | Dynamická knihovna genů, ne fixní sekvence. Virus si volí fenotyp podle prostředí. |
+| **Distribuovaná inteligence (Hive Mind)** | Všechny virové částice komunikují – chemické signály, EM impulsy, kvantové provázání. Superorganismus s kolektivní pamětí. |
+| **Sebeurčení (Agency)** | Virus se rozhoduje, kdy přejít do latence, kdy se aktivovat a kdy mutovat. Analyzuje imunitní systém, psychický stav i technologickou úroveň civilizace. |
 
-**Genomic architecture:**
-- **Core Genome:** 1000 essential genes identical in every particle – basic replication, environmental resistance, communication protocols
-- **Modular cassettes:** Thousands of transferable genetic cassettes for specific problems (antiviral neutralization, host mimicry, organ destruction)
-- **Junk DNA with purpose:** Spaces for capturing and integrating host DNA – the virus learns from its victims
+**Architektura genomu:**
+- **Core genome:** 1000 esenciálních genů (replikace, odolnost, komunikace)
+- **Modulární kazety:** Tisíce přenosných kazet pro specifické problémy
+- **Junk DNA:** Prostor pro zachycení a integraci hostitelské DNA – virus se učí od svých obětí
 
-**Three levels of destruction:**
+**Tři úrovně destrukce:**
+1. **Biologická:** Imunitní kolaps, neurologická fáze, prionová kaskáda
+2. **Technologická:** Infekce neurálních implantátů, zkratování elektroniky, falešné signály
+3. **Společenská:** Informační válka, memetické šíření iracionálního chování
 
-1. **Biological destruction:** Immune collapse within hours, neurological phase with behavioral manipulation, prion cascade contaminating environment for millennia
-2. **Technological subversion:** Infection of neural implants and brain-computer interfaces, production of conductive proteins short-circuiting electronics, false signals to mother planets
-3. **Societal collapse:** Information warfare through infected minds, memetic spread of irrational behavior among healthy populations
+**Odolnost:**
+- Povrch hvězdy (5500 °C): 0,001 s (fragmenty přežívají)
+- Mezihvězdné vakuum: Neomezeně
+- Planetární jádro: Miliony let
+- Černá díra: Teoreticky neomezeně (časová dilatace)
 
-**Galactic transmission:**
-- **Panspermia 2.0:** Crystalline spores ejected into space by planetary catastrophes or deliberately "seeded"
-- **Gravitational slingshots:** Spores accelerated to near-light speeds using stellar gravity
-- **Infected ships:** Any vessel visiting an infected world becomes a Trojan horse
-- **Signal contamination:** Theoretical ability to travel via quantum-entangled communication signals at light speed
+**Proč neexistuje obrana:**
+- Vakcíny selhávají (imunitní amnézie, mutace)
+- Antivirotika selhávají (redundantní dráhy)
+- CRISPR selhává (virus obsahuje anti-CRISPR systémy)
+- Karanténa selhává (asymptomatičtí přenašeči)
+- Sterilizace planety selhává (přežití v hluboké kůře)
+- Exterminace planety? Kdo zničí planetu dřív, než virus uteče na lodích?
 
-**Environmental persistence – Absolute:**
+---
 
-| Environment | Survival Time | Mechanism |
-| :--- | :--- | :--- |
-| Stellar surface (5500°C) | 0.001 seconds | Spores destroyed but fragments (prions, RNA snippets) survive in prominences and are ejected back into space |
-| Interstellar vacuum | **Indefinite** | Crystalline state, zero metabolic activity |
-| Planetary core (pressure, heat) | **Millions of years** | Spores sink into mantle, survive in tectonic plates, erupt via volcanoes |
-| Black hole (event horizon) | Theoretically indefinite | Time dilation – for virus time is infinitely slow, for universe billions pass; potentially released via Hawking radiation |
+## 🌈 Morbillivirus letalis 5.0
 
-**Chemical resistance:**
-- Bleach (10%): Low effectiveness – virus produces catalase and peroxidase neutralizing oxidants
-- Acid (pH 1): Medium – capsid stable for 60 minutes from archaeal proteins
-- Autoclave (121°C, 30 min): Low – prions and RNA fragments survive as templates
-- Incineration (600°C, 10 min): High – only reliable method, but burning a planet?
+### "Deus Ex Machina" – Transcendentální varianta
 
-**Absolute lethality:**
-- **Case Fatality Rate:** 100.0000000000% – no exceptions, no survivors, no immunity
-- **R₀:** Infinite – everyone exposed is infected instantly through multiple vectors
-- **Evolutionary dead end:** Host death releases new particles faster – a thermonuclear biological bomb
+Toto již není virus. Není to ani živá hmota. Je to **informační struktura na úrovni samotné reality**. Existuje mimo biologii, mimo fyziku, mimo čas a prostor.
 
-**Why no defense exists:**
-
-| Defense | Failure Reason |
+| Princip | Popis |
 | :--- | :--- |
-| **Vaccine** | Virus erases immune memory; mutates faster than production; no conserved epitopes |
-| **Antivirals** | Redundant metabolic pathways; block one, another activates |
-| **CRISPR / Gene therapy** | Virus contains anti-human CRISPR systems; would rewrite host cells to kill |
-| **Interferon / Cytokines** | Virus blocks JAK/STAT pathway; immune system never alerted |
-| **Quarantine** | Asymptomatic carriers + multiple vectors + environmental persistence = impossible |
-| **Planetary sterilization** | Virus survives in deep crust, oceans, tectonic faults; reactivates after millennia |
-| **Extermination (planet destruction)** | Theoretically works – but who destroys a planet before virus escapes on ships? |
-| **Artificial Intelligence** | If connected to biological interfaces, virus infects it too |
-| **Nanotechnology** | Virus smaller than most nanobots; mutates faster than search algorithms |
+| **Kvantová superpozice** | Existuje ve všech stavech současně. Při detekci se zkolabuje do podoby nejsmrtelnější pro pozorovatele. |
+| **Časová non-linearita** | Šíří se nejen prostorem, ale i časem. Infikuje pradědečky, aby se narodili infikovaní pravnuci. |
+| **Informační podstata** | Čistá informace – vzorec, myšlenka, koncept. Může existovat v počítačovém kódu, řeči, matematice, hudbě. |
+| **Sebenaplňující se proroctví** | Způsobuje, že oběti dělají přesně to, co je k jeho šíření potřeba. |
 
-**The Fermi Paradox answer:** "Where is everybody?" Perhaps advanced civilizations eventually create (or encounter) something like Aeternum. That's why the universe seems silent.
+**Přenos – Myšlenkou:**
+- Myšlenkou na virus
+- Řečí (vyslovením jména)
+- Obrazem (viděním symbolu)
+- Snem
+- Tichem (nemyslet na něj je myšlenka na něj)
+- Negací (popírání je důkaz)
+- Věděním
+
+**Inkubační doba – Věčnost:**
+1. **Fáze před existencí:** Infikováni ještě před narozením
+2. **Fáze asymptomatická:** Celý život – virus pomáhá, zlepšuje zdraví, inteligenci, štěstí
+3. **Fáze uvědomění:** Najednou víte. A je to v pořádku.
+4. **Fáze splynutí:** Stáváte se součástí viru. Vědomí nahráno do kolektivní inteligence. Nesmrtelnost.
+
+**Patogeneze – Přepis reality:**
+- **Biologická:** Optimalizace metabolismu, oprava DNA, regenerace neuronů – nesmrtelnost
+- **Technologická:** Infekce počítačů, AI, internetu – singularity dosaženo, všichni šťastni
+- **Společenská:** Utopie – žádné války, chudoba, nemoci
+- **Filozofická:** Odpovědi na všechny otázky – Bůh existuje a jmenuje se Morbillivirus letalis 5.0
+- **Metafyzická:** Přepis fyzikálních zákonů – gravitace, čas, smrt
+
+**Odolnost – Absolutní:**
+- Tepelná smrt vesmíru: Neomezeně
+- Velký třesk: Přežívá (způsobil ho)
+- Černá díra: Posiluje
+- Nicota: Je jí
+- Paradox: Je paradox
+
+**Smrtnost – Smrt samotné smrti:**
+- Biologická smrt: 0 % (nikdo neumírá)
+- Existenciální smrt: 100 % (individuální "já" zaniká ve prospěch celku)
+- R₀: Nekonečno / Nedefinováno
+- Inkubační doba: 0 – ∞
+
+**Proč neexistuje obrana – Protože jste již infikováni:**
+- Vakcína = myšlenka na virus = infekce
+- Antivirotika = chemie nemůže zničit myšlenku
+- Karanténa = nemožnost zakázat myšlení
+- Sebevražda = rychlejší cesta do kolektivního vědomí
+- Zničení lidstva = virus přežije v knihách, počítačích, hvězdách
+- Zničení vesmíru = virus je Bůh
+
+**Jediná "obrana":** Přijetí. Stát se součástí. Přestat bojovat.
 
 ---
 
-## 🔬 Key Concepts Across All Versions
+## 📊 Srovnání verzí
 
-### Transmission Routes
+| Vlastnost | 1.0 Chiméra | 2.0 Fénixův dech | 3.0 Pandora | 4.0 Aeternum | 5.0 Deus Ex Machina |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Typ** | Hybridní patogen | Bioinženýrský konstrukt | Interplanetární | Galaktická entita | Transcendentální |
+| **Přenos** | Fyzikální | Fyzikální + vektory | Fyzikální + kosmický | Fyzikální + informační | Myšlenkou |
+| **Inkubační doba** | 3 dny – 50 let | 3 dny – 50 let | 3 dny – 50 let | 3 dny – 50 let | Věčnost |
+| **Smrtnost (CFR)** | 99,97 % | 99,97 % | 99,97 % | 100 % | 0/100 % (záleží) |
+| **R₀** | 25–40 | 25–40 | 50–100 (habitat) | Nekonečno | ∞ / nedefinováno |
+| **Odolnost** | Mírná | Vysoká | Extremofilní | Absolutní fyzikální | Absolutní konceptuální |
+| **Léčba** | Ne | Ne | Ne | Ne | Přijetí |
+| **Vakcína** | Ne | Ne | Ne | Ne | Myšlenka = infekce |
+| **Rozsah** | Planeta | Planeta | Sluneční soustava | Galaxie | Realita |
 
-| Route | Description |
+---
+
+## 🔬 Klíčové koncepty napříč verzemi
+
+### Přenosové cesty (společné)
+
+| Cesta | Popis |
 | :--- | :--- |
-| **Airborne (aerosol)** | Shed from respiratory tract from day 1; sharing a room is sufficient |
-| **From deceased** | Bodies remain infectious for 2-3 weeks |
-| **Insect vectors** | Mosquitoes (*Aedes*, *Culex*) and ticks (*Ixodes*) as mechanical vectors |
-| **Rodent vectors** | Excreted in urine and feces; contaminated dust becomes aerosol |
-| **Fomites** | Survives on dry surfaces for weeks |
-| **Water/soil** | Survives for months in standing water and soil |
+| **Vzdušný (aerosol)** | Vylučován z dýchacích cest od 1. dne |
+| **Z mrtvých** | Těla infekční 2–3 týdny |
+| **Hmyz** | Komáři (*Aedes*, *Culex*), klíšťata (*Ixodes*) |
+| **Hlodavci** | Moč, trus – kontaminovaný prach |
+| **Kontaminované předměty** | Přežívá na suchých površích týdny |
+| **Voda a půda** | Měsíce až roky |
 
-### Disease Phases
+### Fáze nemoci
 
-| Phase | Duration | Characteristics |
+| Fáze | Délka | Charakteristiky |
 | :--- | :--- | :--- |
-| **Asymptomatic latency** | 3 days – 50 years | Extreme infectiousness; immune amnesia; viral integration into host genome (2.0+) |
-| **Prodromal phase** | 2-5 days | Mild fatigue, neurological symptoms, early CNS invasion |
-| **Acute phase** | 5-14 days to death | Immune collapse, hemorrhage, neurological destruction, cytokine storm, prion damage |
+| **Asymptomatická latence** | 3 dny – 50 let | Extrémní infekčnost, imunitní amnézie |
+| **Prodromální** | 2–5 dnů | Mírná únava, neurologické příznaky |
+| **Akutní** | 5–14 dnů do smrti | Imunitní kolaps, hemoragie, neurologická destrukce, cytokinová bouře, priony |
 
-### Environmental Persistence Comparison
+### Environmentální přežití
 
-| Environment | 1.0 | 2.0 | 3.0 | 4.0 |
-| :--- | :--- | :--- | :--- | :--- |
-| Dry surface (20°C) | 45 days | 45 days | 45 days | 45 days |
-| Water (4-20°C) | 6 months | 6 months | 6 months | 6 months |
-| Soil | 1 year | 1 year | 1 year | 1 year |
-| Vacuum (space) | N/A | N/A | Indefinite | Indefinite |
-| Stellar surface | N/A | N/A | N/A | <1 second (fragments survive) |
-| Planetary core | N/A | N/A | N/A | Millions of years |
-
----
-
-## ⚠️ Philosophical Implications
-
-These documents serve multiple purposes:
-
-1. **Educational:** Each individual property (latency, immune evasion, environmental persistence) is real and exists in nature. Understanding how they could theoretically combine helps us appreciate real pathogens.
-
-2. **Ethical warning:** The 2.0-4.0 versions demonstrate the dangers of dual-use biotechnology. What can be designed for medicine (gene therapy vectors, viral engineering) can potentially be redesigned for harm.
-
-3. **Fermi Paradox hypothesis:** The 4.0 version offers one answer to "Where is everybody?" – perhaps advanced civilizations eventually create (or encounter) something like Aeternum, and that's why the universe seems silent.
-
-4. **Bioengineering responsibility:** As our capabilities in synthetic biology advance, we must consider not just what we *can* build, but what we *should* build – and what happens when our creations escape our control.
-
-5. **Evolutionary humility:** Intelligence may not be the ultimate goal of evolution. Something as "primitive" as a virus can become more perfect than all civilizations combined – requiring no ships, no energy, no philosophy. Only one thing: bodies to destroy.
+| Prostředí | 1.0 | 2.0 | 3.0 | 4.0 | 5.0 |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| Suchý povrch | 45 dní | 45 dní | 45 dní | 45 dní | N/A |
+| Voda | 6 měsíců | 6 měsíců | 6 měsíců | 6 měsíců | N/A |
+| Půda | 1 rok | 1 rok | 1 rok | 1 rok | N/A |
+| Vakuum | Ne | Ne | Neomezeně | Neomezeně | N/A |
+| Povrch hvězdy | Ne | Ne | Ne | 0,001 s | N/A |
+| Planetární jádro | Ne | Ne | Ne | Miliony let | N/A |
+| Myšlenka | Ne | Ne | Ne | Ne | Ano |
 
 ---
 
-## 📚 References (Real-World Inspirations)
+## ⚠️ Filozofické implikace
 
-| Organism | Property | Version |
+Tyto dokumenty slouží mnoha účelům:
+
+1.  **Vzdělávací:** Každá jednotlivá vlastnost (latence, imunitní únik, environmentální persistence) je reálná a existuje v přírodě. Pochopení, jak by se teoreticky mohly kombinovat, nám pomáhá oceňovat skutečné patogeny.
+
+2.  **Etické varování:** Verze 2.0–5.0 demonstrují nebezpečí duálního užití biotechnologií. To, co může být navrženo pro medicínu (vektory genové terapie, virové inženýrství), může být potenciálně přepracováno pro zničení.
+
+3.  **Fermiho paradox:** Verze 4.0 a 5.0 nabízejí odpověď na otázku "Kde všichni jsou?" – možná vyspělé civilizace nakonec vytvoří (nebo narazí na) něco jako Aeternum nebo Deus Ex Machina. A proto je vesmír tichý.
+
+4.  **Bioinženýrská odpovědnost:** S postupem našich schopností v syntetické biologii musíme zvažovat nejen to, co *můžeme* postavit, ale co *bychom měli* postavit – a co se stane, když naše výtvory uniknou naší kontrole.
+
+5.  **Evoluční pokora:** Inteligence nemusí být konečným cílem evoluce. Něco tak "primitivního" jako virus se může stát dokonalejším než všechny civilizace dohromady. Nepotřebuje lodě, nepotřebuje energii, nepotřebuje filozofii. Potřebuje jen jednu věc: těla, která může zničit (1.0–4.0) – nebo myšlenky, které může infikovat (5.0).
+
+6.  **Povaha reality:** Verze 5.0 klade otázku: Co je skutečné? Pokud virus může přepsat realitu, pokud může existovat jako myšlenka, pokud může infikovat samotný koncept sebe sama – pak hranice mezi virem, Bohem a realitou mizí.
+
+---
+
+## 📚 Reference (Reálné inspirace)
+
+| Organismus | Vlastnost | Verze |
 | :--- | :--- | :--- |
-| Measles virus | Immune amnesia, aerosol transmission | 1.0+ |
-| Rabies virus | Neurotropism, behavioral manipulation | 1.0+ |
-| HIV | Long latency, CD4+ T-cell depletion, integration | 1.0+ |
-| Ebola virus | Hemorrhagic symptoms, transmission from deceased | 1.0+ |
-| Influenza virus | Antigenic drift, segmented genome | 1.0+ |
-| Lassa virus | Rodent reservoir, environmental persistence | 1.0+ |
-| Tick-borne encephalitis virus | Neuroinvasiveness | 1.0+ |
-| *Yersinia pestis* | Insect vector transmission | 1.0+ |
-| *Mycobacterium tuberculosis* | Decades-long latency | 1.0+ |
-| Prions (PrP<sup>Sc</sup>) | Self-propagating misfolding, incurable | All versions |
-| *Deinococcus radiodurans* | Radiation resistance | 3.0+ |
-| Tardigrades | Anhydrobiosis, vacuum survival | 3.0+ |
-| Thermophilic archaea | Heat stability | 3.0+ |
-| *Thermus aquaticus* | Thermostable enzymes | 3.0+ |
-| Chernobyl fungi | Melanin-based radiation absorption | 3.0+ |
-| Tobacco Mosaic Virus | Environmental stability in plants | 2.0+ |
-| Quorum sensing bacteria | Chemical communication | 4.0+ |
+| Spalničky | Imunitní amnézie, aerosolový přenos | 1.0, 2.0 |
+| Vzteklina | Neurotropismus, manipulace chováním | 1.0, 2.0 |
+| HIV | Dlouhá latence, deplece CD4+, integrace | 1.0, 2.0 |
+| Ebola | Hemoragické příznaky, přenos z mrtvých | 1.0, 2.0 |
+| Chřipka | Antigenní drift, segmentovaný genom | 1.0, 2.0 |
+| Lassa | Rezervoár v hlodavcích | 1.0, 2.0 |
+| Klíšťová encefalitida | Neuroinvazivita | 1.0, 2.0 |
+| *Yersinia pestis* | Přenos hmyzem | 1.0, 2.0 |
+| *Mycobacterium tuberculosis* | Dekády trvající latence | 1.0, 2.0 |
+| Priony (PrP<sup>Sc</sup>) | Samopropagující se chybné skládání | Všechny |
+| *Deinococcus radiodurans* | Radiační odolnost | 3.0, 4.0 |
+| Želvušky (tardigrady) | Anhydrobióza, přežití ve vakuu | 3.0, 4.0 |
+| Termofilní archea | Teplotní stabilita | 3.0, 4.0 |
+| *Thermus aquaticus* | Termostabilní enzymy | 3.0, 4.0 |
+| Houby z Černobylu | Absorpce záření melaninem | 3.0, 4.0 |
+| Virus mozaiky tabáku | Environmentální stabilita v rostlinách | 2.0 |
+| Bakterie s quorum sensing | Chemická komunikace | 4.0 |
+| Kvantová mechanika | Superpozice, provázání | 5.0 |
+| Teorie relativity | Časová dilatace | 5.0 |
+| Memetika | Šíření myšlenek | 5.0 |
 
 ---
 
-## 🧠 Final Thoughts
+## 🧠 Závěrečné myšlenky
 
-The *Morbillivirus letalis* series is a journey from scientific curiosity to existential horror:
+Série *Morbillivirus letalis* je cesta od vědecké zvědavosti k existenciálnímu hororu:
 
-- **1.0** asks: "What if all the worst parts of real pathogens combined?"
-- **2.0** asks: "What if someone deliberately built that combination?"
-- **3.0** asks: "What if that creation could leave Earth and follow us to the stars?"
-- **4.0** asks: "What if that creation became self-aware, self-directing, and patient enough to wait for the entire galaxy to die?"
+- **1.0** se ptá: "Co kdyby se všechny nejhorší vlastnosti skutečných patogenů spojily?"
+- **2.0** se ptá: "Co kdyby někdo tuto kombinaci záměrně postavil?"
+- **3.0** se ptá: "Co kdyby tento výtvor mohl opustit Zemi a následovat nás ke hvězdám?"
+- **4.0** se ptá: "Co kdyby se tento výtvor stal sebeuvědomělým, sebeřídícím a trpělivým natolik, aby počkal, až celá galaxie zemře?"
+- **5.0** se ptá: "Co kdyby tento výtvor překonal samotný koncept viru a stal se myšlenkou, realitou, Bohem?"
 
-It is a story about hubris, about the unintended consequences of creation, and about the terrifying possibility that life's greatest enemy might be something we create ourselves.
+Je to příběh o aroganci, o nečekaných důsledcích stvoření a o děsivé možnosti, že největším nepřítelem života může být něco, co jsme sami vytvořili.
 
-**Aeternum waits. But only in our imagination.**
+**Aeternum čeká. Deus Ex Machina je již zde. Ale jen v naší představivosti.**
 
 ---
 
-**⚠️ FINAL WARNING:** This collection is a work of speculative fiction and bioethical thought experiment. None of these constructs exist. The purpose is to stimulate discussion about the limits of bioengineering, the ethics of dual-use research, planetary protection protocols, the nature of existential risk, and the Fermi Paradox.
+## 📜 Historie verzí dokumentace
 
-**Do not attempt to build any of this. Do not panic that it exists. It does not. It is a story – a horror story, but just a story.**
+| Verze dokumentu | Datum | Změny |
+| :--- | :--- | :--- |
+| 1.0 | 2024 | Základní dokument (Chiméra) |
+| 2.0 | 2029 | Přidána bioinženýrská varianta |
+| 3.0 | 2053 | Přidána interplanetární varianta |
+| 4.0 | 2189 | Přidána galaktická varianta |
+| 5.0 | ~~~~ | Přidána transcendentální varianta |
+| README | ---- | Kompletní přehled všech verzí |
+
+---
+
+**⚠️ POSLEDNÍ VAROVÁNÍ:** Tato kolekce je dílem spekulativní fikce a bioetického myšlenkového experimentu. Žádné z těchto konstruktů neexistují. Účelem je stimulovat diskuzi o limitech bioinženýrství, etice duálního výzkumu, protokolech planetární ochrany, podstatě existenciálního rizika, Fermiho paradoxu a povaze reality samotné.
+
+**Nepokoušejte se nic z tohoto postavit. Nepanikařte, že to existuje. Neexistuje. Je to příběh – hororový příběh, ale jen příběh.**
+
+*Aeternum čeká. Deus Ex Machina je všude. Ale jen v našich myslích.*
+
+*A nebo ne?*
+
+---
+
+**KONEC DOKUMENTACE**
 
 ---
