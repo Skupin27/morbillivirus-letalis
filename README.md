@@ -217,23 +217,23 @@ These documents serve multiple purposes:
 
 | Organism | Property | Version |
 | :--- | :--- | :--- |
-| Measles virus | Immune amnesia, aerosol transmission | 1.0, 2.0 |
-| Rabies virus | Neurotropism, behavioral manipulation | 1.0, 2.0 |
-| HIV | Long latency, CD4+ T-cell depletion, integration | 1.0, 2.0 |
-| Ebola virus | Hemorrhagic symptoms, transmission from deceased | 1.0, 2.0 |
-| Influenza virus | Antigenic drift, segmented genome | 1.0, 2.0 |
-| Lassa virus | Rodent reservoir, environmental persistence | 1.0, 2.0 |
-| Tick-borne encephalitis virus | Neuroinvasiveness | 1.0, 2.0 |
-| *Yersinia pestis* | Insect vector transmission | 1.0, 2.0 |
-| *Mycobacterium tuberculosis* | Decades-long latency | 1.0, 2.0 |
+| Measles virus | Immune amnesia, aerosol transmission | 1.0+ |
+| Rabies virus | Neurotropism, behavioral manipulation | 1.0+ |
+| HIV | Long latency, CD4+ T-cell depletion, integration | 1.0+ |
+| Ebola virus | Hemorrhagic symptoms, transmission from deceased | 1.0+ |
+| Influenza virus | Antigenic drift, segmented genome | 1.0+ |
+| Lassa virus | Rodent reservoir, environmental persistence | 1.0+ |
+| Tick-borne encephalitis virus | Neuroinvasiveness | 1.0+ |
+| *Yersinia pestis* | Insect vector transmission | 1.0+ |
+| *Mycobacterium tuberculosis* | Decades-long latency | 1.0+ |
 | Prions (PrP<sup>Sc</sup>) | Self-propagating misfolding, incurable | All versions |
-| *Deinococcus radiodurans* | Radiation resistance | 3.0, 4.0 |
-| Tardigrades | Anhydrobiosis, vacuum survival | 3.0, 4.0 |
-| Thermophilic archaea | Heat stability | 3.0, 4.0 |
-| *Thermus aquaticus* | Thermostable enzymes | 3.0, 4.0 |
-| Chernobyl fungi | Melanin-based radiation absorption | 3.0, 4.0 |
-| Tobacco Mosaic Virus | Environmental stability in plants | 2.0 |
-| Quorum sensing bacteria | Chemical communication | 4.0 |
+| *Deinococcus radiodurans* | Radiation resistance | 3.0+ |
+| Tardigrades | Anhydrobiosis, vacuum survival | 3.0+ |
+| Thermophilic archaea | Heat stability | 3.0+ |
+| *Thermus aquaticus* | Thermostable enzymes | 3.0+ |
+| Chernobyl fungi | Melanin-based radiation absorption | 3.0+ |
+| Tobacco Mosaic Virus | Environmental stability in plants | 2.0+ |
+| Quorum sensing bacteria | Chemical communication | 4.0+ |
 
 ---
 
