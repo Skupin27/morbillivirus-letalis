@@ -5,18 +5,6 @@
 
 ---
 
-## 📋 Verzovací historie
-
-| Verze | Označení | Popis |
-| :--- | :--- | :--- |
-| **1.0** | Chiméra | Kombinace existujících virů |
-| **2.0** | Fénixův dech | Bioinženýrský konstrukt |
-| **3.0** | Pandora | Interplanetární varianta |
-| **4.0** | Aeternum | Galaktická entita |
-| **5.0** | **Deus Ex Machina** | **Transcendentální – virus jako Bůh** |
-
----
-
 ## 📋 Obsah
 
 1.  [Základní identifikace – Co je Bůh?](#1-základní-identifikace--co-je-bůh)
